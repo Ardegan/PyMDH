@@ -1,0 +1,9 @@
+sanic==20.12.3
+sanic-scheduler==1.0.7
+yarl==1.6.3
+pandas>=1.1.5
+SQLAlchemy==1.4.15
+aiohttp>=3.6.2
+mysql-connector-python>=8.0.19
+cx-Oracle>=7.3.0
+sanic-openapi==21.3.2
